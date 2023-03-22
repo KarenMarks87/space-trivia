@@ -1,2 +1,2 @@
-# space-trivia
-Projeto Trivia 
+# SPACE-TRIVIA
+Projeto quiz com linguagens HTML, CSS e Javascript.
