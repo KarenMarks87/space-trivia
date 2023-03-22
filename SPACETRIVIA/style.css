@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}  
+
+body {
+    text-align: center;
+    padding-top: 160px;
+    background-image: url(img/14.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 64px;
+    font-weight: 400;
+    font-family: 'Libre Franklin', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.name {
+    padding: 80px 60px;
+    border: none;
+    border-radius: 1px;
+    color: black;
+}
+
+#name {
+    text-align: center;
+}
+
+.play-btn {
+    margin-top: 20px;
+    padding: 10px;
+    font-family: 'PT Sans', sans-serif;
+    background-color: #00CED1;
+    color: black;
+    border:none;
+    border-radius: 1px;
+    cursor: pointer;
+}
+
+.result-btn {
+    margin-top: 20px;
+    padding: 10px;
+    font-family: 'PT Sans', sans-serif;
+    background-color: #00CED1;
+    color: black;
+    border:none;
+    border-radius: 1px;
+    cursor: pointer; 
+}
